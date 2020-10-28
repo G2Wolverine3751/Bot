@@ -1,5 +1,15 @@
 {
-  "buildpacks": [{
-    "url": "heroku/php"
-  }]
+  "name": "Test bot telegram",
+  "description": "Test",
+  "keywords": [
+    "Test"
+  ],
+  "website": "#TODO",
+  "repository": "#TODO",
+  "logo": "https://small-sharp-tool.com/logo.svg",
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
 }
